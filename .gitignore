@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.egg-info/
+data/
+figs/
+logs/
+models/
+outputs/
+.vscode/*
